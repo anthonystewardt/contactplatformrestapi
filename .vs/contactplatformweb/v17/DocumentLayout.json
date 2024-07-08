@@ -1,0 +1,1241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\cese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\cese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositoryposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositoryposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\capadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\capadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositorycese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositorycese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositorycese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositorycese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\ceseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\ceseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositorycapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositorycapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\cesedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\cesedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositorymodality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositorymodality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\week.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\week.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\teamendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\teamendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\trainerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\trainerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240702215644_addcolumntouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240702215644_addcolumntouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\capaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\capaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositorycapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositorycapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositoryposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositoryposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\capa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\capa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositoryteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositoryteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositoryteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositoryteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\subcampaignendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\subcampaignendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositorysubcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositorysubcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\trainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\trainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\modality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\modality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositoryweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositoryweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositoryreasonfordeparture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositoryreasonfordeparture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositorycampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositorycampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\campaignendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\campaignendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\entities\\subcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:entities\\subcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240619174354_subcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240619174354_subcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240619175200_trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240619175200_trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240624161813_addnewcolumnstouserdateandemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240624161813_addnewcolumnstouserdateandemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\weekdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\weekdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\subcampaigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\subcampaigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\dtos\\modalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:dtos\\modalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\modalityendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\modalityendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\repositorytrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\repositorytrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositoryweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositoryweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositorytrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositorytrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositorymodality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositorymodality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\positionendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\positionendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositorysubcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositorysubcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\repositories\\irepositoryreasonfordepartures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:repositories\\irepositoryreasonfordepartures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240612213308_addcolumnstoweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240612213308_addcolumnstoweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\reasonfordeparturesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\reasonfordeparturesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\endpoints\\weekendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:endpoints\\weekendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240613205251_addtimespanweekbyday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240613205251_addtimespanweekbyday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240612165129_addtimespantoweekentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240612165129_addtimespantoweekentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\AppData\\Roaming\\Microsoft\\UserSecrets\\7d31cd37-fa3b-4a1f-a536-66b41ad20f43\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240610220125_addcalendaridtoweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240610220125_addcalendaridtoweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240610210427_weekmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240610210427_weekmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240610210206_weekentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240610210206_weekentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240612214950_addcolumnstoweekudated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240612214950_addcolumnstoweekudated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240619175657_supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240619175657_supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240619175246_trainerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240619175246_trainerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240619174642_modality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240619174642_modality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240624153509_addnewcolumnstouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240624153509_addnewcolumnstouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240624195728_addnewcolumntocapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240624195728_addnewcolumntocapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240624173923_createcapaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240624173923_createcapaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240625162833_newcolumncapaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240625162833_newcolumncapaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240626200824_addmodalityidtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240626200824_addmodalityidtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240626164653_addsubcampaigntouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240626164653_addsubcampaigntouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240701010202_updatecapaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240701010202_updatecapaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240701193746_createteamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240701193746_createteamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240702212052_createceseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240702212052_createceseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|c:\\users\\legion\\onedrive\\escritorio\\.net-apirest01\\contactplatformweb\\migrations\\20240707164215_addispostulatetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3469CD6-1A15-4566-B5FF-5CB2770F9B46}|contactplatformweb.csproj|solutionrelative:migrations\\20240707164215_addispostulatetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 266,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryPosition.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryPosition.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryPosition.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:49:59.237Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240707164215_AddIsPostulateToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240707164215_AddIsPostulateToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240707164215_AddIsPostulateToUser.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240707164215_AddIsPostulateToUser.cs",
+              "RelativeToolTip": "Migrations\\20240707164215_AddIsPostulateToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:42:15.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepositoryUser.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryUser.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryUser.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryUser.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:01:45.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240702215644_AddColumnToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240702215644_AddColumnToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240702215644_AddColumnToUser.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240702215644_AddColumnToUser.cs",
+              "RelativeToolTip": "Migrations\\20240702215644_AddColumnToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:56:46.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CeseEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\CeseEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\CeseEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\CeseEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\CeseEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:35:29.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryCese.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryCese.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryCese.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryCese.cs",
+              "RelativeToolTip": "Repositories\\RepositoryCese.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:32:23.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryCese.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryCese.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryCese.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryCese.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryCese.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:31:36.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CeseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\CeseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CeseDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\CeseDTO.cs",
+              "RelativeToolTip": "DTOs\\CeseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:30:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240702212052_CreateCeseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240702212052_CreateCeseEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240702212052_CreateCeseEntity.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240702212052_CreateCeseEntity.cs",
+              "RelativeToolTip": "Migrations\\20240702212052_CreateCeseEntity.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:20:52.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cese.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Cese.cs",
+              "RelativeDocumentMoniker": "Entities\\Cese.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Cese.cs",
+              "RelativeToolTip": "Entities\\Cese.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:17:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\TeamEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\TeamEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\TeamEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\TeamEndpoints.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwIoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:47:30.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RepositoryTeam.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryTeam.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryTeam.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryTeam.cs",
+              "RelativeToolTip": "Repositories\\RepositoryTeam.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:46:17.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepositoryTeam.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryTeam.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryTeam.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryTeam.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryTeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:43:35.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\TeamDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\TeamDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\TeamDTO.cs",
+              "RelativeToolTip": "DTOs\\TeamDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:41:14.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240701193746_CreateTeamEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240701193746_CreateTeamEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240701193746_CreateTeamEntity.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240701193746_CreateTeamEntity.cs",
+              "RelativeToolTip": "Migrations\\20240701193746_CreateTeamEntity.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:37:47.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Team.cs",
+              "RelativeToolTip": "Entities\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:12:29.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240701010202_UpdateCapaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240701010202_UpdateCapaEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240701010202_UpdateCapaEntity.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240701010202_UpdateCapaEntity.cs",
+              "RelativeToolTip": "Migrations\\20240701010202_UpdateCapaEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:02:02.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryUser.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryUser.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryUser.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryUser.cs",
+              "RelativeToolTip": "Repositories\\RepositoryUser.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA3wC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:46:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240626200824_AddModalityIdToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240626200824_AddModalityIdToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240626200824_AddModalityIdToUser.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240626200824_AddModalityIdToUser.cs",
+              "RelativeToolTip": "Migrations\\20240626200824_AddModalityIdToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:08:24.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240626164653_AddSubcampaignToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240626164653_AddSubcampaignToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240626164653_AddSubcampaignToUser.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240626164653_AddSubcampaignToUser.cs",
+              "RelativeToolTip": "Migrations\\20240626164653_AddSubcampaignToUser.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:46:53.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240625162833_NewColumnCapaId.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240625162833_NewColumnCapaId.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240625162833_NewColumnCapaId.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240625162833_NewColumnCapaId.cs",
+              "RelativeToolTip": "Migrations\\20240625162833_NewColumnCapaId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:28:33.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240624195728_AddNewColumnToCapa.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624195728_AddNewColumnToCapa.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624195728_AddNewColumnToCapa.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624195728_AddNewColumnToCapa.cs",
+              "RelativeToolTip": "Migrations\\20240624195728_AddNewColumnToCapa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:57:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CapaEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\CapaEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\CapaEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\CapaEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\CapaEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:47:06.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RepositoryCapa.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryCapa.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryCapa.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryCapa.cs",
+              "RelativeToolTip": "Repositories\\RepositoryCapa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:45:00.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositoryCapa.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryCapa.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryCapa.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryCapa.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryCapa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:44:14.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CapaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\CapaDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CapaDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\CapaDTO.cs",
+              "RelativeToolTip": "DTOs\\CapaDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:42:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240624173923_CreateCapaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624173923_CreateCapaEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624173923_CreateCapaEntity.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624173923_CreateCapaEntity.cs",
+              "RelativeToolTip": "Migrations\\20240624173923_CreateCapaEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:39:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Capa.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Capa.cs",
+              "RelativeDocumentMoniker": "Entities\\Capa.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Capa.cs",
+              "RelativeToolTip": "Entities\\Capa.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:32:57.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240624161813_AddNewColumnsToUserDateAndEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624161813_AddNewColumnsToUserDateAndEmail.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624161813_AddNewColumnsToUserDateAndEmail.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624161813_AddNewColumnsToUserDateAndEmail.cs",
+              "RelativeToolTip": "Migrations\\20240624161813_AddNewColumnsToUserDateAndEmail.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:18:13.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240624153509_AddNewColumnsToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624153509_AddNewColumnsToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624153509_AddNewColumnsToUser.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240624153509_AddNewColumnsToUser.cs",
+              "RelativeToolTip": "Migrations\\20240624153509_AddNewColumnsToUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:35:10.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\UserEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\UserEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\UserEndpoints.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwFwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:26:35.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\UserDTO.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA0wDcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:25:38.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:24:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CampaignEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\CampaignEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\CampaignEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\CampaignEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\CampaignEndpoints.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwD8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:30:30.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RepositoryCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryCampaign.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryCampaign.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryCampaign.cs",
+              "RelativeToolTip": "Repositories\\RepositoryCampaign.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:27:57.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TrainerEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\TrainerEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\TrainerEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\TrainerEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\TrainerEndpoints.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwvzQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:20:34.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RepositoryTrainer.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryTrainer.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryTrainer.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryTrainer.cs",
+              "RelativeToolTip": "Repositories\\RepositoryTrainer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:18:32.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IRepositoryTrainer.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryTrainer.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryTrainer.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryTrainer.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryTrainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:17:37.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TrainerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\TrainerDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\TrainerDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\TrainerDTO.cs",
+              "RelativeToolTip": "DTOs\\TrainerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:15:52.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ModalityEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\ModalityEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ModalityEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\ModalityEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\ModalityEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:56:14.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryModality.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryModality.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryModality.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryModality.cs",
+              "RelativeToolTip": "Repositories\\RepositoryModality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:53:51.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IRepositoryModality.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryModality.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryModality.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryModality.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryModality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:52:17.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ModalityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\ModalityDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ModalityDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\ModalityDTO.cs",
+              "RelativeToolTip": "DTOs\\ModalityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:48:05.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubCampaignEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\SubCampaignEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\SubCampaignEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\SubCampaignEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\SubCampaignEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:49:53.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RepositorySubCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositorySubCampaign.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositorySubCampaign.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositorySubCampaign.cs",
+              "RelativeToolTip": "Repositories\\RepositorySubCampaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:45:44.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IRepositorySubCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositorySubCampaign.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositorySubCampaign.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositorySubCampaign.cs",
+              "RelativeToolTip": "Repositories\\IRepositorySubCampaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:44:16.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240619175657_Supervisor.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619175657_Supervisor.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619175657_Supervisor.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619175657_Supervisor.cs",
+              "RelativeToolTip": "Migrations\\20240619175657_Supervisor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:56:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Supervisor.cs",
+              "RelativeDocumentMoniker": "Entities\\Supervisor.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Supervisor.cs",
+              "RelativeToolTip": "Entities\\Supervisor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:55:56.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240619175246_TrainerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619175246_TrainerEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619175246_TrainerEntity.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619175246_TrainerEntity.cs",
+              "RelativeToolTip": "Migrations\\20240619175246_TrainerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:52:46.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240619175200_Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619175200_Trainer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619175200_Trainer.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619175200_Trainer.cs",
+              "RelativeToolTip": "Migrations\\20240619175200_Trainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:52:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Trainer.cs",
+              "RelativeDocumentMoniker": "Entities\\Trainer.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Trainer.cs",
+              "RelativeToolTip": "Entities\\Trainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:47:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240619174642_Modality.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619174642_Modality.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619174642_Modality.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619174642_Modality.cs",
+              "RelativeToolTip": "Migrations\\20240619174642_Modality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:46:43.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Modality.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Modality.cs",
+              "RelativeDocumentMoniker": "Entities\\Modality.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Modality.cs",
+              "RelativeToolTip": "Entities\\Modality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:45:24.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240619174354_SubCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619174354_SubCampaign.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240619174354_SubCampaign.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240619174354_SubCampaign.cs",
+              "RelativeToolTip": "Migrations\\20240619174354_SubCampaign.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:43:55.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SubCampaignDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\SubCampaignDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\SubCampaignDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\SubCampaignDTO.cs",
+              "RelativeToolTip": "DTOs\\SubCampaignDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:42:45.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SubCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\SubCampaign.cs",
+              "RelativeDocumentMoniker": "Entities\\SubCampaign.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\SubCampaign.cs",
+              "RelativeToolTip": "Entities\\SubCampaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:37:54.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PositionEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\PositionEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\PositionEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\PositionEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\PositionEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:20:44.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryPosition.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryPosition.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryPosition.cs",
+              "RelativeToolTip": "Repositories\\RepositoryPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:19:14.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IRepositoryReasonforDepartures.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryReasonforDepartures.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryReasonforDepartures.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryReasonforDepartures.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryReasonforDepartures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:14:37.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ReasonForDeparturesEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\ReasonForDeparturesEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ReasonForDeparturesEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\ReasonForDeparturesEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\ReasonForDeparturesEndpoints.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowE8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:57:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RepositoryReasonForDeparture.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryReasonForDeparture.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryReasonForDeparture.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryReasonForDeparture.cs",
+              "RelativeToolTip": "Repositories\\RepositoryReasonForDeparture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:56:50.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240613205251_AddTimeSpanWeekByDay.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240613205251_AddTimeSpanWeekByDay.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240613205251_AddTimeSpanWeekByDay.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240613205251_AddTimeSpanWeekByDay.cs",
+              "RelativeToolTip": "Migrations\\20240613205251_AddTimeSpanWeekByDay.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:52:51.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240612214950_AddColumnsToWeekUdated.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240612214950_AddColumnsToWeekUdated.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612214950_AddColumnsToWeekUdated.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240612214950_AddColumnsToWeekUdated.cs",
+              "RelativeToolTip": "Migrations\\20240612214950_AddColumnsToWeekUdated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:49:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240612213308_AddColumnsToWeek.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240612213308_AddColumnsToWeek.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612213308_AddColumnsToWeek.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240612213308_AddColumnsToWeek.cs",
+              "RelativeToolTip": "Migrations\\20240612213308_AddColumnsToWeek.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:33:08.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240612165129_AddTimeSpanToWeekEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240612165129_AddTimeSpanToWeekEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612165129_AddTimeSpanToWeekEntity.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240612165129_AddTimeSpanToWeekEntity.cs",
+              "RelativeToolTip": "Migrations\\20240612165129_AddTimeSpanToWeekEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:51:29.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240610220125_AddCalendarIdToWeek.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240610220125_AddCalendarIdToWeek.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240610220125_AddCalendarIdToWeek.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240610220125_AddCalendarIdToWeek.cs",
+              "RelativeToolTip": "Migrations\\20240610220125_AddCalendarIdToWeek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:01:25.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:45:51.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WeekEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\WeekEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\WeekEndpoints.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Endpoints\\WeekEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\WeekEndpoints.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:40:10.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RepositoryWeek.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryWeek.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryWeek.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\RepositoryWeek.cs",
+              "RelativeToolTip": "Repositories\\RepositoryWeek.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:16:24.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IRepositoryWeek.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryWeek.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryWeek.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Repositories\\IRepositoryWeek.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryWeek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:14:03.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WeekDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\WeekDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\WeekDTO.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\DTOs\\WeekDTO.cs",
+              "RelativeToolTip": "DTOs\\WeekDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:12:34.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240610210427_WeekModel.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240610210427_WeekModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240610210427_WeekModel.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240610210427_WeekModel.cs",
+              "RelativeToolTip": "Migrations\\20240610210427_WeekModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:04:27.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApplicationDBContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAlwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:03:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240610210206_WeekEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240610210206_WeekEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240610210206_WeekEntity.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Migrations\\20240610210206_WeekEntity.cs",
+              "RelativeToolTip": "Migrations\\20240610210206_WeekEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:02:06.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Week.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Week.cs",
+              "RelativeDocumentMoniker": "Entities\\Week.cs",
+              "ToolTip": "C:\\Users\\Legion\\OneDrive\\Escritorio\\.net-apirest01\\contactplatformweb\\Entities\\Week.cs",
+              "RelativeToolTip": "Entities\\Week.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAqwFMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:46:58.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Legion\\AppData\\Roaming\\Microsoft\\UserSecrets\\7d31cd37-fa3b-4a1f-a536-66b41ad20f43\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7d31cd37-fa3b-4a1f-a536-66b41ad20f43\\secrets.json",
+              "ToolTip": "C:\\Users\\Legion\\AppData\\Roaming\\Microsoft\\UserSecrets\\7d31cd37-fa3b-4a1f-a536-66b41ad20f43\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7d31cd37-fa3b-4a1f-a536-66b41ad20f43\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T17:51:26.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
