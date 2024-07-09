@@ -14,6 +14,14 @@ using System.Text;
 
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Configurar Kestrel para usar la configuración del archivo appsettings.json
+builder.WebHost.ConfigureKestrel((context, options) =>
+{
+    options.Configure(context.Configuration.GetSection("Kestrel"));
+});
+
+
 var originsHosts = builder.Configuration.GetValue<string>("AllowAccess")!;
 // inicio de area de los servicios
 
@@ -135,5 +143,5 @@ var endPointsCeses = app.MapGroup("/ceses").MapCeses();
 
 
 
-app.Run();
+app.Run("http://172.25.120.19:5052");
 

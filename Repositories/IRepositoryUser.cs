@@ -19,6 +19,9 @@
         // GetUserPostulate
         Task<List<Entities.User>> GetUserPostulate();
 
+        // GetUsersSupervisor
+        Task<List<Entities.User>> GetUsersSupervisor();
+
         Task<Entities.User> AddUser(Entities.User user);
         // check if exist user
         Task<bool> ExistUser(int id);

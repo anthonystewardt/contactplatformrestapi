@@ -27,6 +27,9 @@ namespace contactplatformweb.Endpoints
             group.MapGet("/postulate", GetUserPostulateController).CacheOutput(c => c.Expire(TimeSpan.FromSeconds(10))).WithTags("users-get");
             group.MapGet("/{id}", GetUserByIdController).CacheOutput(c => c.Expire(TimeSpan.FromSeconds(10)));
 
+            // get all user if the column isSupervisor is true
+            group.MapGet("/supervisor", GetUsersSupervisorController).CacheOutput(c => c.Expire(TimeSpan.FromSeconds(10))).WithTags("users-get");
+
             // get all users by filter, for example, by name but regular expresion:  /users?name=^A
             group.MapGet("/search", GetUsersControllerByExpressionRegular).CacheOutput(c => c.Expire(TimeSpan.FromSeconds(10))).WithTags("users-get");
 
@@ -49,6 +52,10 @@ namespace contactplatformweb.Endpoints
             group.MapPost("/deactivate-users", DeactivateUsersController)
                                          .WithName("DeactivateUsers")
                                          .WithTags("users-deactivate");
+            // add multiple users to week entity
+            //group.MapPost("/add-users-to-week", AddUsersToWeekController)
+             //                            .WithName("AddUsersToWeek")
+             //                            .WithTags("users-add-to-week");
 
             // Activar multiple usuarios
             group.MapPost("/activate-users", ActivateUsersController)
@@ -71,6 +78,13 @@ namespace contactplatformweb.Endpoints
             //login
             group.MapPost("/login", LoginController);
             return group;
+        }
+
+        // create GetUsersSupervisorController method
+        static async Task<Ok<List<User>>> GetUsersSupervisorController(IRepositoryUser repository)
+        {
+            var users = await repository.GetUsersSupervisor();
+            return TypedResults.Ok(users);
         }
 
         // Método para obtener todos los usuarios por filtro, por ejemplo, por nombre pero expresión regular

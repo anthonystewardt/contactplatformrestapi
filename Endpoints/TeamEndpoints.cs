@@ -16,6 +16,8 @@ namespace contactplatformweb.Endpoints
             group.MapPut("/{id}", UpdatedTeamController);
             group.MapDelete("/{id}", DeleteTeamController);
             group.MapPost("/{id}/user/{idUser}", AddUserToTeamController);
+            // remove an user from a team
+            group.MapDelete("/{id}/user/{idUser}", RemoveUserFromTeamController);
 
             return group;
         }
@@ -137,6 +139,27 @@ namespace contactplatformweb.Endpoints
             }
 
             team.Users.Add(user);
+            await repository.UpdateTeam(team);
+            return Results.NoContent();
+        }
+
+        // create RemoveUserFromTeamController method where you can remove a user from a team  in the Users list
+        static async Task<IResult> RemoveUserFromTeamController(int id, int idUser, IRepositoryTeam repository)
+        {
+            var team = await repository.GetTeam(id);
+            if (team == null)
+            {
+                return TypedResults.NotFound();
+            }
+
+            var user = await repository.GetUser(idUser);  
+
+            if (user == null)
+            {
+                return Results.NotFound();
+            }
+
+            team.Users.Remove(user);
             await repository.UpdateTeam(team);
             return Results.NoContent();
         }

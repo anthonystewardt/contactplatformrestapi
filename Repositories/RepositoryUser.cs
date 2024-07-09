@@ -49,6 +49,12 @@ namespace contactplatformweb.Repositories
             return await context.Users.OrderBy(x => x.Name).Where(u => u.IsPostulate == true).ToListAsync();
         }
 
+        // all user supervisor
+        public async Task<List<User>> GetUsersSupervisor()
+        {
+            return await context.Users.OrderBy(x => x.Name).Where(u => u.IsSupervisor == true).ToListAsync();
+        }
+
         // all users
         public async Task<List<User>> GetUsers()
         {

@@ -61,6 +61,8 @@ namespace contactplatformweb.Endpoints
 
         static async Task<IResult> UpdatedCapaController(int id, CapaDTO capaDto, IRepositoryCapa repository)
         {
+            // get superisor
+            var supervisor = await repository.GetUser(capaDto.SupervisorId);
             var capa = new Capa
             {
                 Id = id,
